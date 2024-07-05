@@ -1,0 +1,13 @@
+.danger{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+    border: 1px solid blue;
+    background-color: green;
+}
+.myArticle{
+    border: 1px solid blue($color: #000000);
+}
+.myNotes{
+    border: 2px solid red;
+}
